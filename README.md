@@ -1,7 +1,10 @@
 # shiny-dashboards-at-CEE
-Shiny dashboards I designed and coded at CEE, screenshots only due to the confidentiality of student data. Dashboard utilize Shiny and visualizations are coded with D3. 
+Images in this repo are screenshots of dashboards I've built while working as a student data analyst at UC Davis. 
+
+The ONLY purpose of this repo is to provide demo for my resume. ABSOLUTE NO conclusion or speculation can be made towards UC Davis.
+
+NO ONE is allowed to distribute any screenshots in this repo in any shape or form without my permission. 
+
+All rights reserved to Center for Education Effectiveness at UC Davis.
 
 ![ex](DDD.png)
-
-© 2016 CEE.UCDAVIS.EDU ALL RIGHTS RESERVED
-
