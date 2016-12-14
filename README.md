@@ -1,5 +1,5 @@
 # shiny-dashboards-at-CEE
-Images in this repo are screenshots of dashboards I've built while working as a student data analyst at UC Davis. 
+Images in this repo are screenshots of dashboards I've built while working at UC Davis CEE. 
 
 The ONLY purpose of this repo is to provide demo for my resume. ABSOLUTE NO conclusion or speculation can be made towards UC Davis.
 
